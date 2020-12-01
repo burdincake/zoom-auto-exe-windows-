@@ -1,0 +1,16 @@
+READ ME!
+
+1. This program only works for windows
+
+2. check your chrome version by entering "chrome://version".
+
+3. See if your version (85, 86, 87) (check top line)
+
+4. install chromedriver (If your chrome is not 87)
+	If your browser is version 85, move "chromedriver.exe" at chromedriver85 folder to Zoom Auto folder
+	If your browser is version 86, move "chromedriver.exe" at chromedriver86 folder to Zoom Auto folder
+	If your browser is version 87, move "chromedriver.exe" at chromedriver87 folder to Zoom Auto folder
+
+5. after download driver, unzip it to the folder where this txt file is at. (Zoom Auto folder)
+
+6. All ready to go! (Not required: drag and drop "zoom auto.exe - shortcut" to your desktop if you need)
